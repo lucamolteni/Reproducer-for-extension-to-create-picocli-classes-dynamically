@@ -1,0 +1,5 @@
+name: quarkus-generate-picocli-commands
+title: Quarkus Generate Picocli Commands
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
